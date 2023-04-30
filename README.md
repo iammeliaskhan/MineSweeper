@@ -16,12 +16,11 @@ The game has the following features:
 
 To run this project, you can simply clone the repository and open `index.html` in your web browser.
 
-sh
-Copy code
-$ git clone https://github.com/iammeliaskhan/MineSweeper.git
-$ cd MineSweeper
-$ open index.html
-
+```sh
+    $ git clone https://github.com/iammeliaskhan/MineSweeper.git
+    $ cd MineSweeper
+    $ open index.html
+```
 
 Alternatively, you can also access the game via the following link: https://iammeliaskhan.github.io/MineSweeper/
 
