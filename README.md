@@ -36,7 +36,7 @@ There are three difficulty levels: Easy, Medium, and Hard. The number of mines a
 
 The game includes a timer that starts when you begin playing and stops when you either win or lose. The timer is displayed in the top-right corner of the screen.
 
-Flagging Cells
+## Flagging Cells
 
 You can flag cells that you suspect contain a mine by right-clicking on them. This will place a flag on the cell. You can remove the flag by right-clicking on the cell again.
 
