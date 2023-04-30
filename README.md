@@ -6,13 +6,13 @@ This project is a front-end implementation of the popular game MineSweeper. It h
 
 The game has the following features:
 
-Board customization
-Multiple difficulty levels
-Timer
-Flagging cells
-Resetting the game
-Dynamic board size
-Getting Started
+- Board customization
+- Multiple difficulty levels
+- Timer
+- Flagging cells
+- Resetting the game
+- Dynamic board size
+- Getting Started
 
 To run this project, you can simply clone the repository and open index.html in your web browser.
 
