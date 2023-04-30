@@ -14,7 +14,7 @@ The game has the following features:
 - Dynamic board size
 ## Getting Started
 
-To run this project, you can simply clone the repository and open index.html in your web browser.
+To run this project, you can simply clone the repository and open `index.html` in your web browser.
 
 sh
 Copy code
