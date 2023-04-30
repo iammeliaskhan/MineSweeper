@@ -48,6 +48,6 @@ You can reset the game by clicking on the **Reset** button. This will clear the 
 
 The board size will automatically adjust based on your device's screen size. This means that the game will be playable on both desktop and mobile devices.
 
-Contributing
+## Contributing
 
 Contributions to this project are welcome. If you have any suggestions for improvement or bug reports, please create an issue on the GitHub repository.
