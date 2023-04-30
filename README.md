@@ -42,9 +42,9 @@ You can flag cells that you suspect contain a mine by right-clicking on them. Th
 
 ## Resetting the Game
 
-You can reset the game by clicking on the "Reset" button. This will clear the board and start a new game with the same settings.
+You can reset the game by clicking on the **Reset** button. This will clear the board and start a new game with the same settings.
 
-Dynamic Board Size
+## Dynamic Board Size
 
 The board size will automatically adjust based on your device's screen size. This means that the game will be playable on both desktop and mobile devices.
 
