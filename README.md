@@ -28,7 +28,7 @@ Alternatively, you can also access the game via the following link: **https://ia
 
 You can customize the size of the board and the number of mines by clicking on the **Customize** button. This will open a modal where you can input your desired values. The board size can range from 5x5 to 30x30, while the number of mines can range from 1 to 500.
 
-Difficulty Levels
+## Difficulty Levels
 
 There are three difficulty levels: Easy, Medium, and Hard. The number of mines and board size are pre-set for each difficulty level. You can choose the difficulty level by clicking on the corresponding button.
 
