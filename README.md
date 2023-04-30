@@ -1,4 +1,4 @@
-MineSweeper
+# MineSweeper
 
 This project is a front-end implementation of the popular game MineSweeper. It has been developed using HTML, CSS, and JavaScript.
 
