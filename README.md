@@ -40,7 +40,7 @@ The game includes a timer that starts when you begin playing and stops when you 
 
 You can flag cells that you suspect contain a mine by right-clicking on them. This will place a flag on the cell. You can remove the flag by right-clicking on the cell again.
 
-Resetting the Game
+## Resetting the Game
 
 You can reset the game by clicking on the "Reset" button. This will clear the board and start a new game with the same settings.
 
