@@ -22,7 +22,7 @@ To run this project, you can simply clone the repository and open `index.html` i
     $ open index.html
 ```
 
-Alternatively, you can also access the game via the following link: https://iammeliaskhan.github.io/MineSweeper/
+Alternatively, you can also access the game via the following link: **https://iammeliaskhan.github.io/MineSweeper/**
 
 Board Customization
 
