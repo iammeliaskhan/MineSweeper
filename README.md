@@ -12,7 +12,7 @@ The game has the following features:
 - Flagging cells
 - Resetting the game
 - Dynamic board size
-- Getting Started
+## Getting Started
 
 To run this project, you can simply clone the repository and open index.html in your web browser.
 
