@@ -2,7 +2,7 @@
 
 This project is a front-end implementation of the popular game MineSweeper. It has been developed using HTML, CSS, and JavaScript.
 
-Features
+## Features
 
 The game has the following features:
 
