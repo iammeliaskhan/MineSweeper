@@ -32,7 +32,7 @@ You can customize the size of the board and the number of mines by clicking on t
 
 There are three difficulty levels: Easy, Medium, and Hard. The number of mines and board size are pre-set for each difficulty level. You can choose the difficulty level by clicking on the corresponding button.
 
-Timer
+## Timer
 
 The game includes a timer that starts when you begin playing and stops when you either win or lose. The timer is displayed in the top-right corner of the screen.
 
